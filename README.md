@@ -1,4 +1,4 @@
-#The Spotify Music Streaming Dashboard is an interactive data analytics project built using Microsoft Power BI. It visualizes real-world Spotify streaming data to uncover patterns in song popularity, artist performance, genre trends, and audio characteristics such as energy, tempo, loudness, valence, and danceability.
+The Spotify Music Streaming Dashboard is an interactive data analytics project built using Microsoft Power BI. It visualizes real-world Spotify streaming data to uncover patterns in song popularity, artist performance, genre trends, and audio characteristics such as energy, tempo, loudness, valence, and danceability.
 
 This project demonstrates how Business Intelligence (BI) tools can be leveraged beyond traditional business environments to create meaningful insights in the music and entertainment industry. By integrating Power Query for data transformation and DAX expressions for metric calculations, the dashboard converts raw data into a visually engaging and easy-to-understand analytical story.
 
